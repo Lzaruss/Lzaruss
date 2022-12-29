@@ -25,10 +25,8 @@ I am a **Higher Grade student in Multiplatform Application Development at ISEP C
 
 <h3 align="left">Stats:</h3>
 
-![Lzaruss's Stats](https://github-readme-stats.vercel.app/api?username=Lzaruss&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Lzaruss's Stats](https://github-readme-stats.vercel.app/api?username=Lzaruss&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
-![Lzaruss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lzaruss&theme=dracula&hide_border=false)
+![Lzaruss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lzaruss&theme=gotham&hide_border=true)
 
-![Lzaruss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lzaruss&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-
+![Lzaruss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lzaruss&theme=gotham&show_icons=true&hide_border=true&layout=compact)
