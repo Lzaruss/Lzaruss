@@ -29,7 +29,7 @@ I am a **Higher Grade student in Multiplatform Application Development at ISEP C
     <img src="https://user-images.githubusercontent.com/104428151/209992068-410242c8-fd03-4066-afcc-721a1a668c83.svg" alt="Java" width="50" height="50"/> 
   </a>    
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/104428151/209992413-dcce569b-5ab4-4e6b-b72e-12c7149213b2.png" alt="git" width="40" height="40"/> 
+    <img src="https://user-images.githubusercontent.com/104428151/209992413-dcce569b-5ab4-4e6b-b72e-12c7149213b2.png" alt="Javascript" width="40" height="40"/> 
   </a>    
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
