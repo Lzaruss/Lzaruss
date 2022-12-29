@@ -24,4 +24,5 @@ I am a **Higher Grade student in Multiplatform Application Development at ISEP C
 
 
 <h3 align="left">Stats:</h3>
+
 ![Lzaruss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lzaruss&theme=dracula&show_icons=true&hide_border=false&layout=compact)
