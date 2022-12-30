@@ -11,7 +11,7 @@ I am a **Higher Grade student in Multiplatform Application Development at ISEP C
 
 - 🌱 I’m currently studying *Higher Grade student in Multiplatform Application Development.*
 
-- 📫 How to reach me: *albertolazarobelinchon@gmail.com* or *+34 638769970*
+- 📫 How to reach me: *albertolazarobelinchon@gmail.com*
 
 - 📄 Know about my experiences in the files *"CV-AlbertoLazaroBelinchonEN.pdf"* or *"CVAlbertoLazaro.pdf"* that you can find in this repository.
 
