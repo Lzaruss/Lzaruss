@@ -67,6 +67,7 @@ I am a **Higher Grade student in Multiplatform Application Development at ISEP C
   </a> 
 </p>
 
+---
 
 <h3 align="left">Stats:</h3>
 
