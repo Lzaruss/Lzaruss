@@ -15,12 +15,16 @@ I am a **Higher Grade student in Multiplatform Application Development at ISEP C
 
 - 📄 Know about my experiences in the files *"CV-AlbertoLazaroBelinchonEN.pdf"* or *"CVAlbertoLazaro.pdf"* that you can find in this repository.
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/alberto-lazarob" target="blank">
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"       alt="alberto-lazarob" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
