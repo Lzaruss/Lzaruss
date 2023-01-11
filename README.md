@@ -3,7 +3,7 @@
 
 <h3 align="center">A software developer</h3>
 
-I am a **Higher Grade student in Multiplatform Application Development at ISEP CEU** and I am currently working with Node.js and RPA technologies. I am focused on my professional and personal growth, applying everything I have learned in my career. I have the ability to identify problems, analyze their causes and find effective solutions. I am also able to adapt to changing environments and face new challenges and tasks efficiently.
+I am a **BSc Business Information Systems (Multiplatform Application Development) at ISEP CEU** and I am currently working with Node.js and RPA technologies. I am focused on my professional and personal growth, applying everything I have learned in my career. I have the ability to identify problems, analyze their causes and find effective solutions. I am also able to adapt to changing environments and face new challenges and tasks efficiently.
 
 ---
 
