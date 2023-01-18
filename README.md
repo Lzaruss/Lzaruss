@@ -70,4 +70,4 @@ I'm studying **BSc Business Information Systems (Multiplatform Application Devel
 
 ---
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=Lzaruss" />
+<img width="80" src="https://visitor-badge.glitch.me/badge?page_id=Lzaruss" />
