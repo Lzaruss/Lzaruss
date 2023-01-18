@@ -68,4 +68,5 @@ I'm studying **BSc Business Information Systems (Multiplatform Application Devel
 
 ![Lzaruss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lzaruss&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
+
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=Lzaruss" />
