@@ -3,7 +3,7 @@
 
 <h3 align="center">A software developer</h3>
 
-I'm studying **BSc Business Information Systems (Multiplatform Application Development) at ISEP CEU** and I am currently working with Node.js and RPA technologies. I am focused on my professional and personal growth, applying everything I have learned in my career. I have the ability to identify problems, analyze their causes and find effective solutions. I am also able to adapt to changing environments and face new challenges and tasks efficiently.
+Enthusiastic and creative software developer. I am currently working with Node.js, Python and Java technologies. My main focus is on my personal and professional growth, applying all the knowledge acquired during my career. I possess skills in problem identification and analysis, allowing me to find effective solutions. In addition, I have the ability to adapt to changing environments and face new challenges and tasks efficiently.
 
 ---
 
