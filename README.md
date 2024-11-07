@@ -1,15 +1,18 @@
-<h1 align="center"> Hi 👋, I'm Alberto Lázaro </h1>
+<h1 align="center">Hi 👋, I'm Alberto Lázaro</h1> 
 
+<h3 align="center">A Software Developer with a Focus on Automation and Web Scraping</h3>
 
-<h3 align="center">A software developer</h3>
+Passionate and resourceful software developer currently working with Python, Node.js, and Java. My main goal is continuous growth, both personally and professionally, and I apply all my accumulated experience to enhance the efficiency and quality of my work. I have strong problem-solving skills, allowing me to identify and address issues effectively, along with the adaptability to thrive in dynamic environments.
 
-Enthusiastic and creative software developer. I am currently working with Node.js, Python and Java technologies. My main focus is on my personal and professional growth, applying all the knowledge acquired during my career. I possess skills in problem identification and analysis, allowing me to find effective solutions. In addition, I have the ability to adapt to changing environments and face new challenges and tasks efficiently.
-
----
+I bring experience in automation, backend development, web scraping, and system maintenance. With a solid background in Python, I've developed and maintained scripts for automating processes and web scraping, as reflected in my GitHub repositories. Additionally, I have experience with SQL Server, MySQL, Microsoft Azure, and Power BI, and I’m familiar with Agile and Kanban methodologies.
 
 <h3 align="left">Additional Information:</h3>
 
-- 🌱 I’m currently studying *Higher Grade student in Multiplatform Application Development.*
+- 🌱 Currently expanding my expertise in cloud technologies with a focus on certifications in Azure and Python programming.
+
+- 💼 Experienced in backend development, support, and implementing two-factor authentication, as well as enhancing applications with new functionalities.
+
+- 👨‍💻 Open to freelance and collaborative projects, especially those that challenge my skills in web scraping and data automation.
 
 - 📫 How to reach me: *albertolazarobelinchon@gmail.com*
 
